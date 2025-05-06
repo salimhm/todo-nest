@@ -1,5 +1,8 @@
 # Todo App API
 
+- Clone the repo
+- in the root folder, run: ```docker compose up --build```
+
 ## Features
 
 - JWT Authentication
