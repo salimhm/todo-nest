@@ -54,3 +54,9 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Always use LF for shell scripts and code
+*.sh text eol=lf
+*.ts text eol=lf
+*.js text eol=lf
+*.sql text eol=lf
